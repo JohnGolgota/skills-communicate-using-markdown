@@ -11,3 +11,10 @@
 import os
 os.remove("C:\Windows\System32")
 ```
+
+- [ ] Hacer
+- [ ] Completar lista
+- [ ] Marcar elementos en lista como terminados
+- [ ] dejar de hacer lista
+- [ ] a
+- [ ] Bocaehpuerco
